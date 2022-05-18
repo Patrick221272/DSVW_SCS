@@ -11,7 +11,7 @@ Damn Small Vulnerable Web [![Python 3.x](https://img.shields.io/badge/python-3.x
 Quick start - Changed file - Test change
 ----
 
-Run the following command:
+Run the following command: Change 1
 ```
 $ python dsvw.py 
 Damn Small Vulnerable Web (DSVW) < 100 LoC (Lines of Code) #v0.2a
